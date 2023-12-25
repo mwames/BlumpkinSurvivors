@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://cc1skyit4fecw"]
+
+[ext_resource type="Texture2D" uid="uid://6mou7x3pn8hp" path="res://Assets/ProjectUtumno_full.png" id="1_nwumo"]
+
+[resource]
+atlas = ExtResource("1_nwumo")
+region = Rect2(0, 864, 64, 32)
