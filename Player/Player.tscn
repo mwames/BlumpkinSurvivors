@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://bddi6vp8ciuok"]
 
-[ext_resource type="Texture2D" uid="uid://cc1skyit4fecw" path="res://Player/paladin.tres" id="1_i5pke"]
 [ext_resource type="Script" path="res://Player/Player.gd" id="1_vs5rs"]
+[ext_resource type="Texture2D" uid="uid://cqxkdc1ji2s3i" path="res://Player/Skins/hoarfrost-magus.tres" id="2_mlq0d"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_fu6g8"]
 radius = 11.0
@@ -38,12 +38,12 @@ metadata/_edit_group_ = true
 
 [node name="PlayerUpper" type="Sprite2D" parent="CollisionShape2D/Character"]
 position = Vector2(0, -31)
-texture = ExtResource("1_i5pke")
+texture = ExtResource("2_mlq0d")
 region_enabled = true
 region_rect = Rect2(32, 0, 32, 32)
 script = SubResource("GDScript_ecsig")
 
 [node name="PlayerLower" type="Sprite2D" parent="CollisionShape2D/Character"]
-texture = ExtResource("1_i5pke")
+texture = ExtResource("2_mlq0d")
 region_enabled = true
 region_rect = Rect2(0, 0, 32, 32)
