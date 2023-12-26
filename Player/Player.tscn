@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://bddi6vp8ciuok"]
 
-[ext_resource type="Texture2D" uid="uid://cc1skyit4fecw" path="res://Tilesets/player.tres" id="1_i5pke"]
-[ext_resource type="Script" path="res://Tilesets/Player.gd" id="1_vs5rs"]
+[ext_resource type="Texture2D" uid="uid://cc1skyit4fecw" path="res://Player/paladin.tres" id="1_i5pke"]
+[ext_resource type="Script" path="res://Player/Player.gd" id="1_vs5rs"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_fu6g8"]
 radius = 11.0

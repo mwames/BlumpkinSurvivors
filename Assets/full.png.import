@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://0j2vptf3sdvi"
-path="res://.godot/imported/DungeonCrawl_ProjectUtumnoTileset.png-9cb757745c7c29a953a69c9525559183.ctex"
+uid="uid://6mou7x3pn8hp"
+path="res://.godot/imported/full.png-2d85d81143d5ef10aa19794322c90860.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/DungeonCrawl_ProjectUtumnoTileset.png"
-dest_files=["res://.godot/imported/DungeonCrawl_ProjectUtumnoTileset.png-9cb757745c7c29a953a69c9525559183.ctex"]
+source_file="res://Assets/full.png"
+dest_files=["res://.godot/imported/full.png-2d85d81143d5ef10aa19794322c90860.ctex"]
 
 [params]
 

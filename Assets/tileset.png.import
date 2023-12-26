@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6mou7x3pn8hp"
-path="res://.godot/imported/ProjectUtumno_full.png-35062691f3c71998eeedf0a5345d17a0.ctex"
+uid="uid://0j2vptf3sdvi"
+path="res://.godot/imported/tileset.png-06023f60f54ec986b75003a8d422612f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ProjectUtumno_full.png"
-dest_files=["res://.godot/imported/ProjectUtumno_full.png-35062691f3c71998eeedf0a5345d17a0.ctex"]
+source_file="res://Assets/tileset.png"
+dest_files=["res://.godot/imported/tileset.png-06023f60f54ec986b75003a8d422612f.ctex"]
 
 [params]
 

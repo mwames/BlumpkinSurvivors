@@ -1,8 +1,8 @@
 [gd_resource type="TileSet" load_steps=7 format=3 uid="uid://sskfb4dqabl6"]
 
-[ext_resource type="Texture2D" uid="uid://0j2vptf3sdvi" path="res://Assets/DungeonCrawl_ProjectUtumnoTileset.png" id="1_sg8oy"]
-[ext_resource type="Texture2D" uid="uid://6mou7x3pn8hp" path="res://Assets/ProjectUtumno_full.png" id="2_lcixu"]
-[ext_resource type="Texture2D" uid="uid://w0ytvw4kl5i4" path="res://Assets/ProjectUtumno_supplemental.png" id="3_13g0o"]
+[ext_resource type="Texture2D" uid="uid://0j2vptf3sdvi" path="res://Assets/tileset.png" id="1_sg8oy"]
+[ext_resource type="Texture2D" uid="uid://6mou7x3pn8hp" path="res://Assets/full.png" id="2_lcixu"]
+[ext_resource type="Texture2D" uid="uid://w0ytvw4kl5i4" path="res://Assets/supplemental.png" id="3_13g0o"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_7lldn"]
 texture = ExtResource("1_sg8oy")
